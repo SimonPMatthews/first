@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+font-family: "Aerial", Times, serif;
+font-size: 80px;
+}h1
